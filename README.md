@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=500&color=B8860B&center=true&vCenter=true&width=1100&height=130&lines=ALBION+ONLINE+HACK+2026;RADAR+%7C+ESP+%7C+AUTO+FARM;DOMINATE+THE+OPEN+WORLD" alt="Albion Online Hack 2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=500&color=FFD700&center=true&vCenter=true&width=1100&height=130&lines=ALBION+ONLINE+HACK+2026;RADAR+%7C+ESP+%7C+AUTO+FARM;DOMINATE+THE+OPEN+WORLD" alt="Albion Online Hack 2026" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-UNDETECTED-B8860B?style=for-the-badge&labelColor=B8860B" />
-<img src="https://img.shields.io/badge/Version-v1.0--Latest-B8860B?style=for-the-badge&labelColor=B8860B" />
-<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-B8860B?style=for-the-badge&labelColor=B8860B" />
-<img src="https://img.shields.io/badge/Updates-Daily-B8860B?style=for-the-badge&labelColor=B8860B" />
-<img src="https://img.shields.io/badge/Architecture-x64-B8860B?style=for-the-badge&labelColor=B8860B" />
-<img src="https://img.shields.io/badge/Locale-EN%2FZH-B8860B?style=for-the-badge&labelColor=B8860B" />
+<img src="https://img.shields.io/badge/Status-UNDETECTED-FFD700?style=for-the-badge&labelColor=1A1200" />
+<img src="https://img.shields.io/badge/Version-v1.0--Latest-1A1200?style=for-the-badge&labelColor=B8860B" />
+<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-FFD700?style=for-the-badge&labelColor=1A1200" />
+<img src="https://img.shields.io/badge/Updates-Daily-1A1200?style=for-the-badge&labelColor=B8860B" />
+<img src="https://img.shields.io/badge/Architecture-x64-FFD700?style=for-the-badge&labelColor=1A1200" />
+<img src="https://img.shields.io/badge/Locale-EN%2FZH-1A1200?style=for-the-badge&labelColor=B8860B" />
 
 </div>
 
@@ -39,7 +39,7 @@ This hack targets **exactly those pain points**. No useless bloat. Just the stuf
 
 ## 🔗 Download
 
-[![Download Albion Online Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-B8860B?style=for-the-badge&logo=download&logoColor=white)](https://example.com/albion-hack)
+[![Download Albion Online Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://example.com/albion-hack)
 
 ---
 
@@ -147,7 +147,6 @@ Every setting can be saved, loaded, and shared.
 | Steam | ✅ Working |
 | Official Launcher | ✅ Working |
 | Xbox | ✅ Working |
-| Single-Player (not applicable) | — |
 | Multiplayer | ✅ Working |
 
 **Works everywhere. Undetected.**
@@ -210,24 +209,24 @@ Every setting can be saved, loaded, and shared.
 
 ## 📥 Download Albion Online Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-B8860B?style=for-the-badge&logo=download&logoColor=white)](https://example.com/albion-hack)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FFD700?style=for-the-badge&logo=download&logoColor=1A1200)](https://example.com/albion-hack)
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=34&pause=500&color=B8860B&center=true&vCenter=true&width=1000&height=80&lines=THANK+YOU+FOR+USING+ALBION+HACK;DOMINATE+THE+OPEN+WORLD;STAY+UNDETECTED" alt="Thank you" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=34&pause=500&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=THANK+YOU+FOR+USING+ALBION+HACK;DOMINATE+THE+OPEN+WORLD;STAY+UNDETECTED" alt="Thank you" />
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-B8860B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/albion)
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-B8860B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/albion)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-B8860B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@albion)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-B8860B?style=for-the-badge&logo=discord&logoColor=1A1200)](https://discord.gg/albion)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-FFD700?style=for-the-badge&logo=telegram&logoColor=1A1200)](https://t.me/albion)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-B8860B?style=for-the-badge&logo=youtube&logoColor=1A1200)](https://youtube.com/@albion)
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-MIT-B8860B?style=flat-square&logo=github&labelColor=B8860B)](https://github.com)
-[![Status](https://img.shields.io/badge/Status-UNDETECTED-B8860B?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0.0-B8860B?style=flat-square)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-FFD700?style=flat-square&logo=github&labelColor=1A1200)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-UNDETECTED-B8860B?style=flat-square&logoColor=1A1200)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-FFD700?style=flat-square&labelColor=1A1200)](https://github.com)
 
 </div>
